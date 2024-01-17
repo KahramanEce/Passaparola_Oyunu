@@ -1,0 +1,11 @@
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.AssemblyReference.cache
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.SuggestedBindingRedirects.cache
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\enkah\OneDrive\Desktop\Egitimler\Projeler\Passaparola\Passaparola\obj\Debug\Passaparola.pdb
